@@ -3,7 +3,7 @@
 Hallo I am an 
 - 🍕 italian 
 - 🪐 nerd
-- :electron: physicist
+- ⚛️ physicist
 - 💍 obsessed by The Lord of The Rings
 
 I think this tells a lot about me. My career path starts during my Master Thesis. My supervisor gave me a Linux terminal and told me:
