@@ -4,7 +4,8 @@ Hallo I am an
 - 🍕 italian 
 - 🪐 nerd
 - ⚛️ physicist
-- 💍 obsessed by The Lord of The Rings
+- 💍 The Lord of The Rings adept
+- 🦈 sharks lover
 
 I think this tells a lot about me. My career path starts during my Master Thesis. My supervisor gave me a Linux terminal and told me:
 > This is a Linux terminal. Play a little bit with it! 😱
