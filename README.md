@@ -24,12 +24,19 @@ And when it's not just a matter of fun, I love creating business value. With my 
 
 ### **_Want to know more about me?_**
 
-- [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/giulio-cornelio-grossi/) Have a look at my Linkedin profile.
+- Have a look at my Linkedin profile.
 
-- [![Academia](https://img.shields.io/static/v1?label=Academia&message=Publications&color=orange&logo=academia)](https://independent.academia.edu/GiulioCornelioGrossi) Here you can read my publications. 
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giulio-cornelio-grossi/)
 
-- [![Github](https://img.shields.io/badge/-Github%20pages-black?logo=github)](https://gcgrossi.github.io/) Browse my Github pages site! 
 
+- Here you can read my publications. 
+
+[![Academia](https://img.shields.io/badge/Publications-orange?style=for-the-badge&logo=academia)](https://independent.academia.edu/GiulioCornelioGrossi)
+
+
+- Browse my Github! 
+
+[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/gcgrossi)
 <!--
 **gcgrossi/gcgrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
