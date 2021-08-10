@@ -1,10 +1,10 @@
 ### About me
 
 Hallo I am an 
-- 🍕 italian 
+- 🍕 italian
 - 🪐 nerd
 - ⚛️ physicist
-- 💍 The Lord of The Rings adept
+- 💍 The Lord of The Rings scholar
 - 🦈 sharks lover
 
 I think this tells a lot about me. My career path starts during my Master Thesis. My supervisor gave me a Linux terminal and told me:
@@ -21,6 +21,27 @@ I now do Asset Management and Quantitative Finance but I also engage in differen
 And when it's not just a matter of fun, I love creating business value. With my MBA studies I also have a good in depht knowledge of Business Administration! 🕴️ 
 
 ***
+
+### **_I Develop Front-End and Back-End in_**
+
+[![](https://img.shields.io/badge/C++-030f73?style=for-the-badge&logo=cplusplus)]()
+[![](https://img.shields.io/badge/Python-B5a300?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)]()
+[![](https://img.shields.io/badge/HTML-730305?style=for-the-badge&logo=html5)]()
+[![](https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=css3)]()
+[![](https://img.shields.io/badge/Excel-07502d?style=for-the-badge&logo=microsoftexcel)]()
+[![](https://img.shields.io/badge/VBA-07502d?style=for-the-badge&logo=excel)]()
+[![](https://img.shields.io/badge/SQL-110354?style=for-the-badge&logo=sqlite)]()
+
+### **_I Use many Python libraries for Machine Learning and Data Manipulation_**
+
+[![](https://img.shields.io/badge/pandas-030f73?style=for-the-badge&logo=pandas)]()
+[![](https://img.shields.io/badge/numpy-D28e08?style=for-the-badge&logo=numpy)]()
+[![](https://img.shields.io/badge/selenium-045032?style=for-the-badge&logo=selenium)]()
+[![](https://img.shields.io/badge/keras-C10316?style=for-the-badge&logo=keras)]()
+[![](https://img.shields.io/badge/opencv-110354?style=for-the-badge&logo=opencv)]()
+[![](https://img.shields.io/badge/scikit%20learn-A64203?style=for-the-badge&logo=scikitlearn)]()
+[![](https://img.shields.io/badge/scikit%20image-414141?style=for-the-badge&logo=scikitlearn)]()
 
 ### **_Want to know more about me?_**
 
