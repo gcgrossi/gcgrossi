@@ -42,6 +42,7 @@ And when it's not just a matter of fun, I love creating business value. With my 
 [![](https://img.shields.io/badge/opencv-110354?style=for-the-badge&logo=opencv)]()
 [![](https://img.shields.io/badge/scikit%20learn-A64203?style=for-the-badge&logo=scikitlearn)]()
 [![](https://img.shields.io/badge/scikit%20image-414141?style=for-the-badge&logo=scikitlearn)]()
+[![](https://img.shields.io/badge/flask-730305?style=for-the-badge&logo=flask)]()
 
 ### **_Want to know more about me?_**
 
