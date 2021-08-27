@@ -46,19 +46,13 @@ And when it's not just a matter of fun, I love creating business value. With my 
 
 ### **_Want to know more about me?_**
 
-- Have a look at my Linkedin profile.
-
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giulio-cornelio-grossi/)
-
-
-- Here you can read my publications. 
 
 [![Academia](https://img.shields.io/badge/Publications-orange?style=for-the-badge&logo=academia)](https://independent.academia.edu/GiulioCornelioGrossi)
 
-
-- Browse my Github! 
-
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/gcgrossi)
+
+[![CV](https://img.shields.io/badge/Download%20CV-C10316?style=for-the-badge&logo=pdf)](https://drive.google.com/file/d/1blHlMI5qrSt8sBpUlDk41PPJ-uxXDa2D/view?usp=sharing)
 <!--
 **gcgrossi/gcgrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
